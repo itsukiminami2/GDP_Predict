@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GDP Growth Analysis</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="card_content">Card content ere</string>
+
+    <string name="us">USA</string>
+    <string name="cn">China</string>
+    <string name="jp">Japan</string>
+    <string name="de">Germany</string>
+    <string name="fr">France</string>
+    <string name="uk">UK</string>
+    <string name="in">India</string>
+    <string name="br">Brazil</string>
+    <string name="it">Italy</string>
+    <string name="ca">Canada</string>
+    <string name="kr">South Korea</string>
+    <string name="ru">Russia</string>
+    <string name="au">Australia</string>
+    <string name="es">Spain</string>
+    <string name="mx">Mexico</string>
+    <string name="id">Indonesia</string>
+    <string name="tr">Turkey</string>
+    <string name="nl">Netherlands</string>
+    <string name="ch">Switzerland</string>
+    <string name="sa">Saudi Arabia</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_g20_map">Map</string>
+    <string name="title_activity_web2">Web2</string>
+</resources>
